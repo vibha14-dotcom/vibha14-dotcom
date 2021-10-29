@@ -7,6 +7,7 @@ public class IFStatements {
 		if (k>c)
 		{
 			System.out.println("hey tu bol");
+			System.out.println("hey tu bol");
 		}
 		System.out.println("mai kyun bolu");
 	}
